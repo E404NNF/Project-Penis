@@ -2,10 +2,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.bukkit</groupId>
-    <artifactId>project-posiden</artifactId>
+    <artifactId>project-penis</artifactId>
     <packaging>jar</packaging>
     <version>1.1.5</version>
-    <name>Project-Poseidon</name>
+    <name>Project-Penis</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <api.version>unknown</api.version>
